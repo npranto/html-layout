@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+}
+.top{
+	background-color: yellow;
+	width: 100%;
+	height: 200px;
+}
+.silver-background{
+	width: 100%;
+	height: 100VH;
+	background-color: green;
+}
+.white-centered{
+	background-color: white;
+	width: 85%;
+	height: 90VH;
+	margin: 0 auto;
+}
+.dark-centered{
+	background-color: black;
+	width: 85%;
+	height: 10VH;
+	margin: 0 auto; 
+}
