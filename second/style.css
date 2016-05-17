@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+}
+.left{
+	background-color: #4A90E2;
+	width: 33.3VW;
+	height: 100VH;
+	float: left;
+}
+.middle{
+	background-color: #50E3C2;
+	width: 33.3VW;
+	height: 100VH;
+	float: left;
+}
+.right{
+	background-color: #B8E986;
+	width: 33.3VW;
+	height: 100VH;
+	float: left;
+	position: relative;
+}
+img{
+	width: 33.3VW;
+	position: absolute;
+	bottom: 0;
+}
