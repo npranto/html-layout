@@ -20,7 +20,7 @@ body{
 	float: left;
 	position: relative;
 }
-img{
+.right img{
 	width: 33.3VW;
 	position: absolute;
 	bottom: 0;
